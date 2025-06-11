@@ -2,17 +2,17 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# チュートリアル　イントロ
 
-Let's discover **Docusaurus in less than 5 minutes**.
+発見しよう！ **Docusaurus 5 分以内に**.
 
-## Getting Started
+## はじめに
 
-Get started by **creating a new site**.
+Get started by **新しいサイトの作成**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+### あなたになにが必要か
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
